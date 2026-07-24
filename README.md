@@ -55,7 +55,7 @@
 | `9` | DART Financial Analysis | `https://dart-financial-analysis.ai.studio` | `analytics` |
 | `A` | Global Market Index Dashboard | `https://global-market-index.ai.studio` | `language` |
 | `B` | KOSPI Shock Recovery Analyzer | `https://kospi-shock-recover.ai.studio` | `stacked_line_chart` |
-| `C` | KiStock AI Studio | `https://kistock.ai.studio` | `auto_awesome` |
+| `C` | Stock Price Position Analyzer | `https://kistock.ai.studio` | `auto_awesome` |
 | `D` | KRX Market Action Monitor | `https://krx-market-action-monitor.ai.studio` | `candlestick_chart` |
 
 ### Private 모드
