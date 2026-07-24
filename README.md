@@ -40,7 +40,7 @@
 
 ### Public 모드
 
-포털 기본 화면에는 아래 12개 모듈 카드가 포함되어 있습니다.
+포털 기본 화면에는 아래 13개 모듈 카드가 포함되어 있습니다.
 
 | 단축키 | 서비스 | URL | 아이콘 |
 | --- | --- | --- | --- |
@@ -56,6 +56,7 @@
 | `A` | Global Market Index Dashboard | `https://global-market-index.ai.studio` | `language` |
 | `B` | KOSPI Shock Recovery Analyzer | `https://kospi-shock-recover.ai.studio` | `stacked_line_chart` |
 | `C` | KiStock AI Studio | `https://kistock.ai.studio` | `auto_awesome` |
+| `D` | KRX Market Action Monitor | `https://krx-market-action-monitor.ai.studio` | `candlestick_chart` |
 
 ### Private 모드
 
