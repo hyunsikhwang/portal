@@ -60,7 +60,7 @@
 
 ### Private 모드
 
-우측 상단의 `Private` 토글을 선택하면 Public 카드가 전환 애니메이션과 함께 사라지고, 아래 7개 private 메뉴 카드가 표시됩니다.
+우측 상단의 `Private` 토글을 선택하면 Public 카드가 전환 애니메이션과 함께 사라지고, 아래 9개 private 메뉴 카드가 표시됩니다.
 
 | 단축키 | 서비스 | URL | 아이콘 |
 | --- | --- | --- | --- |
@@ -71,6 +71,8 @@
 | `5` | PDF Password Remover | `https://pdf-free.ai.studio` | `picture_as_pdf` |
 | `6` | Social Screenshot Studio | `https://social-screenshot-studio.ai.studio` | `photo_camera` |
 | `7` | Memoir | `https://memoir.ai.studio` | `folder_special` |
+| `8` | Insurance Settlement URL Extractor | `https://insurance-settlement-url-extractor-239485161480.us-west1.run.app/` | `link` |
+| `9` | Clippr | `https://clippr.ai.studio/` | `content_cut` |
 
 ## 주요 동작
 
